@@ -1,0 +1,4 @@
+﻿  UnitTestLevenstein.cpp
+C:\Users\vanya\source\repos\Levenstein\Levenstein\Levenstein.cpp(9,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vanya\source\repos\Levenstein\Levenstein\Levenstein.cpp(10,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  UnitTestLevenstein.vcxproj -> C:\Users\vanya\source\repos\Levenstein\x64\Debug\UnitTestLevenstein.dll

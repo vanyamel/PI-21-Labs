@@ -1,0 +1,10 @@
+replace d to w
+replace d to w
+replace d to w
+insert k
+insert l
+copy e
+replace d to w
+copy c
+copy b
+copy a

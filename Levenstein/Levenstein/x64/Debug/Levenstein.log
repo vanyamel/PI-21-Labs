@@ -1,0 +1,4 @@
+﻿  Levenstein.cpp
+C:\Users\vanya\source\repos\Levenstein\Levenstein\Levenstein.cpp(7,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vanya\source\repos\Levenstein\Levenstein\Levenstein.cpp(8,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Levenstein.vcxproj -> C:\Users\vanya\source\repos\Levenstein\x64\Debug\Levenstein.exe
